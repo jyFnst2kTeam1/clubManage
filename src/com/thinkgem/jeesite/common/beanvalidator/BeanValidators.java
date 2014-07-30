@@ -19,8 +19,6 @@ import com.google.common.collect.Maps;
 
 /**
  * JSR303 Validator(Hibernate Validator)工具类.
- * 
- * 
  * ConstraintViolation中包含propertyPath, message 和invalidValue等信息.
  * 提供了各种convert方法，适合不同的i18n需求:
  * 1. List<String>, String内容为message
