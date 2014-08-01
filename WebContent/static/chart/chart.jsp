@@ -39,7 +39,7 @@
 	 <input type="text" name="address" id="address" >
 	<input type="hidden" name="addressIds" id="addressIds" >
 	<div id="canvasDiv" demo="true" mutil="true"></div> -->
-	<div id="canvasDiv"></div> 
+	<!-- <div id="canvasDiv"></div> --> 
 	<%-- <tags:message content="${message}"/> --%>
 </body>
 </html>
